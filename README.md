@@ -1,2 +1,0 @@
-# taster_new
-Testing
